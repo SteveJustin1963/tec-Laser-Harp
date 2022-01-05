@@ -3,7 +3,7 @@
 
 make a version of this product using the tec1
 
-### from the web site
+### from aliexpress web site
 
 1. Description:
 
